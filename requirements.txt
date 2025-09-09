@@ -1,0 +1,12 @@
+autogen-agentchat
+autogen-core
+autogen-ext 
+asyncio 
+dotenv 
+openai
+tiktoken
+langchain_community
+arxiv 
+load_dotenv
+streamlit
+watchdog

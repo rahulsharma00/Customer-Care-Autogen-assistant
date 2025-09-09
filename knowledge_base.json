@@ -1,0 +1,80 @@
+{
+    "Returns": [
+        {
+            "question": "What is your return policy?",
+            "answer": "You can return any product within 30 days of delivery for a full refund."
+        },
+        {
+            "question": "Do I have to pay for return shipping?",
+            "answer": "No, return shipping is free for all orders."
+        },
+        {
+            "question": "Can I return a product after 30 days?",
+            "answer": "Unfortunately, returns are only accepted within 30 days of delivery."
+        },
+        {
+            "question": "What items are non-returnable?",
+            "answer": "Gift cards, downloadable software, and personalized products cannot be returned."
+        },
+        {
+            "question": "How do I initiate a return?",
+            "answer": "You can start a return by visiting your orders page and clicking 'Return Item'."
+        },
+        {
+            "question": "How long does it take to process a return?",
+            "answer": "Returns are usually processed within 5-7 business days after we receive the product."
+        }
+    ],
+    "Orders": [
+        {
+            "question": "How can I track my order?",
+            "answer": "You can track your order using the tracking link sent to your email after shipping."
+        },
+        {
+            "question": "Can I cancel my order?",
+            "answer": "Yes, you can cancel your order within 24 hours of placing it."
+        },
+        {
+            "question": "How do I change my shipping address?",
+            "answer": "You can update your shipping address from your account settings before the order is shipped."
+        },
+        {
+            "question": "Why hasn't my order arrived?",
+            "answer": "Please check the tracking information. If there’s an unexpected delay, contact our support team."
+        },
+        {
+            "question": "Can I combine multiple orders for shipping?",
+            "answer": "Orders placed separately cannot be combined once confirmed."
+        },
+        {
+            "question": "Do you offer express shipping?",
+            "answer": "Yes, express shipping is available at checkout for most products."
+        }
+    ],
+    "Payments": [
+        {
+            "question": "What payment methods do you accept?",
+            "answer": "We accept credit cards, debit cards, PayPal, and UPI."
+        },
+        {
+            "question": "Can I get a refund to a different payment method?",
+            "answer": "Refunds are issued only to the original payment method used for purchase."
+        },
+        {
+            "question": "Why was my payment declined?",
+            "answer": "Payments may be declined due to insufficient funds or incorrect details. Please verify your information or try another payment method."
+        },
+        {
+            "question": "Do you accept international payments?",
+            "answer": "Yes, we accept international payments via credit/debit cards and PayPal."
+        },
+        {
+            "question": "Is it safe to save my payment information?",
+            "answer": "Yes, we use secure encryption to store payment information safely."
+        },
+        {
+            "question": "Can I pay in installments?",
+            "answer": "For eligible products, we offer EMI options at checkout depending on your bank and region."
+        }
+    ]
+}
