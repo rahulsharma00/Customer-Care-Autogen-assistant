@@ -27,3 +27,12 @@ The project consists of **two main Python files**:
 2. **app.py**  
    - Implements a **Streamlit app** for user interaction.  
    - Provides a simple and friendly chat interface connected to the backend logic.  
+
+## Run with Docker
+1. **Build the image**
+`docker build -t customer-support-streamlit .`
+
+2. **Run the container**
+`docker run -p 8501:8501 --env-file .env customer-support-streamlit`
+
+3. **Then open:** `http://localhost:8501`
